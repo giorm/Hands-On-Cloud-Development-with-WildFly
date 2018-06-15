@@ -1,4 +1,4 @@
-# Hands-On Cloud Development with WildFly
+# Giorgio Hands-On Cloud Development with WildFly
 This is the code repository for [Hands-On Cloud Development with WildFly](https://www.packtpub.com/web-development/hands-cloud-development-wildfly?utm_source=github&utm_medium=repository&utm_campaign=9781786462374), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 The mission of the book is to make you familiar with the tools that you can use to develop
